@@ -1,0 +1,26 @@
+.Master{
+    border-style: dashed;
+    border-color: black;
+    border-style: double;
+    display: flex;
+    
+}
+
+.d1{
+    border: 1.5px;
+    border-color: blue;
+    border-style:groove;
+    height: 250px;
+    width: 50%; 
+    visibility: visible;  
+    background-color: violet;
+}
+.d2 {
+    border: 1.5px;
+    border-color: brown;
+    border-style:groove;
+    height: 250px;
+    width: 50%;
+    visibility: hidden;
+    background-color: red;
+}
